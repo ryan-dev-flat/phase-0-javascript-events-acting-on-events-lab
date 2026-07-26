@@ -9,11 +9,11 @@
   "author": "flatironschool",
   "license": "Included in Repo",
   "dependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
     "chai": "^4.2.0",
-    "jsdom": "^9.0",
-    "mocha": "5.2.0",
+    "jsdom": "^29.1",
+    "mocha": "11.7.6",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^1.0.1"
   }
